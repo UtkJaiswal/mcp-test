@@ -1,3 +1,5 @@
-a = 5
-b = 3
-print(a+)
+def main():
+    print("Hello, world!")
+
+if __name__ == "__main__":
+    main()
